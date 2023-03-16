@@ -10,8 +10,15 @@
  ![IMDB_Logo_2016 svg](https://user-images.githubusercontent.com/115378901/222606914-51cdda13-3b87-45eb-8450-2f7073413a92.png)
 
  
- ## Purpose:
+  ## Desciption of Project:
+ This project involves combining data from IMDB and TMDB to create a SQL database. The data from IMDB was simply downloaded as compressed CSV files, while data from TMDB was extracted using the TMDB API. 
+ 
+ The data from these sources were combined and explored. After exploring the data, hypothesis testing was performed to understand with statistical significance what makes a movie successful.
+ 
  ## Description of Data:
+ 
+ <img width="363" alt="tables" src="https://user-images.githubusercontent.com/115378901/225484509-f08c0209-f076-46b0-bcae-fbe358e64738.png">
+
  ## Methods:
  ## EDA:
  ## Hypothesis Testing:
